@@ -20,6 +20,42 @@
             android:id="@+id/navItem4"
             android:icon="@drawable/ic_action_location_found_dark"
             android:title="Contact"/>
+        <item
+            android:id="@+id/navItem11"
+            android:icon="@drawable/ic_action_location_found_dark"
+            android:title="Home"/>
+        <item
+            android:id="@+id/navItem12"
+            android:icon="@drawable/ic_action_location_found_dark"
+            android:title="Blog"/>
+
+        <item
+            android:id="@+id/navItem13"
+            android:icon="@drawable/ic_action_location_found_dark"
+            android:title="About"/>
+
+        <item
+            android:id="@+id/navItem14"
+            android:icon="@drawable/ic_action_location_found_dark"
+            android:title="Contact"/>
+        <item
+            android:id="@+id/navItem21"
+            android:icon="@drawable/ic_action_location_found_dark"
+            android:title="Home"/>
+        <item
+            android:id="@+id/navItem22"
+            android:icon="@drawable/ic_action_location_found_dark"
+            android:title="Blog"/>
+
+        <item
+            android:id="@+id/navItem23"
+            android:icon="@drawable/ic_action_location_found_dark"
+            android:title="About"/>
+
+        <item
+            android:id="@+id/navItem24"
+            android:icon="@drawable/ic_action_location_found_dark"
+            android:title="Contact"/>
     </group>
 
 </menu>

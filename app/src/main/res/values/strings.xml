@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LabDesignLibrary</string>
+    <string name="app_name">xxx的互联网空间</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
@@ -9,4 +9,7 @@
     <string name="txt_other">Other</string>
     <string name="txt_yo_yo">Yo Yo</string>
     <string name="title_activity_code_lab">CodeLabActivity</string>
+
+    <string name="url_tuchong">http://hepeng.tuchong.com</string>
+    <string name="url_weibo"></string>
 </resources>
